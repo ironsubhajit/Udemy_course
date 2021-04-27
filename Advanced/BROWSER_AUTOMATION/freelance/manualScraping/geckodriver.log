@@ -1,0 +1,448 @@
+1618248152199	geckodriver	INFO	Listening on 127.0.0.1:3009
+1618248155367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilezx3UDv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618248162760	Marionette	INFO	Listening on port 3023
+1618248162884	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618250770457	Marionette	INFO	Stopped listening on port 3023
+1618289674301	geckodriver	INFO	Listening on 127.0.0.1:3600
+1618289677507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileT7UP3k"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618289685243	Marionette	INFO	Listening on port 3610
+1618289685595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618289699261	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618289700958	Marionette	INFO	Stopped listening on port 3610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618290042526	geckodriver	INFO	Listening on 127.0.0.1:4201
+1618290045639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileUDoCaz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618290052566	Marionette	INFO	Listening on port 4214
+1618290053322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618290178448	Marionette	INFO	Stopped listening on port 4214
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofile4HBp3R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618290147986	Marionette	INFO	Listening on port 4437
+1618290148146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618290162663	Marionette	INFO	Stopped listening on port 4437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618290334799	geckodriver	INFO	Listening on 127.0.0.1:4715
+1618290337915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofile65d58N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618290344267	Marionette	INFO	Listening on port 4725
+1618290344363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618290415176	Marionette	INFO	Stopped listening on port 4725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileukZhwX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618290394103	Marionette	INFO	Listening on port 4907
+1618290394350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618290411917	Marionette	INFO	Stopped listening on port 4907
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618291602374	geckodriver	INFO	Listening on 127.0.0.1:6102
+1618291605523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilegPiiIq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618291612954	Marionette	INFO	Listening on port 6111
+1618291613513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618291641619	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618291641967	Marionette	INFO	Stopped listening on port 6111
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618292237905	geckodriver	INFO	Listening on 127.0.0.1:6767
+1618292241009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileYrRncU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618292247434	Marionette	INFO	Listening on port 6777
+1618292247956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618292940089	Marionette	INFO	Stopped listening on port 6777
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileqPDwzW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618292297411	Marionette	INFO	Listening on port 6959
+1618292297761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618292940871	Marionette	INFO	Stopped listening on port 6959
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l\\Temp\\rust_mozprofilebdzH1p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 11132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618292388333	Marionette	INFO	Listening on port 7160
+1618292388583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618292942055	Marionette	INFO	Stopped listening on port 7160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l\\Temp\\rust_mozprofilerBwwVB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618292722250	Marionette	INFO	Listening on port 7553
+1618292722766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618292943244	Marionette	INFO	Stopped listening on port 7553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileFfvhES"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618292818080	Marionette	INFO	Listening on port 7803
+1618292818344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618292944550	Marionette	INFO	Stopped listening on port 7803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilenPoBgL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 18316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618292941425	Marionette	INFO	Listening on port 8037
+1618292941812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/search-telemetry sync interrupted by shutdown
+1618293498410	Marionette	INFO	Stopped listening on port 8037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8310
+1618293038603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618293499935	Marionette	INFO	Stopped listening on port 8310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileeQbaSM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618293497046	Marionette	INFO	Listening on port 24122
+1618293497256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618293959308	Marionette	INFO	Stopped listening on port 24122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofileKPaJLl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618293593114	Marionette	INFO	Listening on port 24353
+1618293593665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618293626471	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618293654530	Marionette	INFO	Stopped listening on port 24353
+1618293660689	geckodriver	INFO	Listening on 127.0.0.1:24585
+1618293663796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileDRHHbp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618293676226	Marionette	INFO	Listening on port 24600
+1618293676802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618293708559	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618293734046	geckodriver	INFO	Listening on 127.0.0.1:24817
+1618293737139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilem2BGFK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618293747621	Marionette	INFO	Listening on port 24827
+1618293747781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618293763827	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618293958956	Marionette	INFO	Stopped listening on port 24827
+8293834704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileUU25Lc"
+1618293844576	geckodriver	INFO	Listening on 127.0.0.1:25079
+1618293847613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileibRUbk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618293856354	Marionette	INFO	Listening on port 25089
+1618293856868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618293958265	Marionette	INFO	Stopped listening on port 25089
+8293890396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileQFa71X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618293901460	Marionette	INFO	Listening on port 25273
+1618293901784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618293925219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618313860309	geckodriver	INFO	Listening on 127.0.0.1:4266
+1618313863436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofile23QxsP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618313874587	Marionette	INFO	Listening on port 4275
+1618313874706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618313902581	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618313949855	Marionette	INFO	Stopped listening on port 4275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618313981317	geckodriver	INFO	Listening on 127.0.0.1:4445
+1618313984408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilewnBjHs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618313990066	Marionette	INFO	Listening on port 4454
+1618313990404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618314173621	Marionette	INFO	Stopped listening on port 4454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileIkDoeY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618314054578	Marionette	INFO	Listening on port 4624
+1618314054879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter152, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+1618314174839	Marionette	INFO	Stopped listening on port 4624
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618314314245	geckodriver	INFO	Listening on 127.0.0.1:5003
+1618314317355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileTA7GhY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618314322751	Marionette	INFO	Listening on port 5012
+1618314323261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618314356859	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618314363008	Marionette	INFO	Stopped listening on port 5012
+1618314587039	geckodriver	INFO	Listening on 127.0.0.1:5388
+1618314590171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileD0Visy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618314596240	Marionette	INFO	Listening on port 5398
+1618314596592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618314620469	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618314770967	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618315264952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618315418770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618315699854	geckodriver	INFO	Listening on 127.0.0.1:6412
+1618315702972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilescK98I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618315708867	Marionette	INFO	Listening on port 6421
+1618315709312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618315737489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618315785851	Marionette	INFO	Stopped listening on port 6421
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618316093913	geckodriver	INFO	Listening on 127.0.0.1:6868
+1618316097010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilegfKEl0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316103296	Marionette	INFO	Listening on port 6879
+1618316103426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+[Child 22376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 22376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 22376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 22376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 22376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618316128382	Marionette	INFO	Stopped listening on port 6879
+1618316134856	geckodriver	INFO	Listening on 127.0.0.1:7037
+1618316137981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilessmWnF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316143230	Marionette	INFO	Listening on port 7048
+1618316143355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316171616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618316219603	Marionette	INFO	Stopped listening on port 7048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618316299429	geckodriver	INFO	Listening on 127.0.0.1:7309
+1618316302541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileSPQaxa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316307936	Marionette	INFO	Listening on port 7320
+1618316308435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316335927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618316383103	geckodriver	INFO	Listening on 127.0.0.1:7508
+1618316386253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilecfsNRs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316391707	Marionette	INFO	Listening on port 7517
+1618316392149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+[Child 32104, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6044, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618316411986	Marionette	INFO	Stopped listening on port 7517
+1618316416397	geckodriver	INFO	Listening on 127.0.0.1:7672
+1618316419558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofile4xcNUP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316425541	Marionette	INFO	Listening on port 7683
+1618316425916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618316435383	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618316435384	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316454878	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618316503441	Marionette	INFO	Stopped listening on port 7683
+1618316511599	geckodriver	INFO	Listening on 127.0.0.1:7892
+1618316514733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileS1NdKO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 28748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618316520630	Marionette	INFO	Listening on port 7901
+1618316521130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316555721	geckodriver	INFO	Listening on 127.0.0.1:8082
+1618316558768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileuNQfGT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316565699	Marionette	INFO	Listening on port 8138
+1618316566367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+[Child 10752, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618316981523	Marionette	INFO	Stopped listening on port 8138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arionette	INFO	Listening on port 8499
+1618316791014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316818082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618316862084	Marionette	INFO	Stopped listening on port 8499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618316874942	geckodriver	INFO	Listening on 127.0.0.1:8700
+1618316877996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileC7JtGi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316883886	Marionette	INFO	Listening on port 8711
+1618316884368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316907693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618316925335	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618316969016	Marionette	INFO	Stopped listening on port 8711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618316975511	geckodriver	INFO	Listening on 127.0.0.1:8936
+1618316978634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilez0o3iY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316985611	Marionette	INFO	Listening on port 8947
+1618316986122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618317026700	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618317072264	Marionette	INFO	Stopped listening on port 8947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618317161087	geckodriver	INFO	Listening on 127.0.0.1:9212
+1618317164183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofileAvgxeA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618317169775	Marionette	INFO	Listening on port 9222
+1618317170082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618317195631	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618317207051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618317254014	Marionette	INFO	Stopped listening on port 9222
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618317371862	geckodriver	INFO	Listening on 127.0.0.1:9522
+1618317374966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Subhajit\\AppData\\Local\\Temp\\rust_mozprofilesf8Z7b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618317381635	Marionette	INFO	Listening on port 9533
+1618317381990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618317406044	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618317430497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/4bd30034c5741761b0ee2cfffb09450c9b519199.js, line 25: unreachable code after return statement
+1618317445136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618317490740	Marionette	INFO	Stopped listening on port 9533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,5 @@
+IDHotel,Name,Address,PostalCode,City,Country,Active,STATUS,BCOM Address,BCOM base URL
+34,Hotel Veneto Palace,Via Piemonte 63,00187,Roma,Italia,0,FOUND,"Via Piemonte 63, Via Veneto, 00187 Rome, Italy",https://www.booking.com/hotel/it/veneto-rome.html
+36,Hotel Home Florence,Piazza Piave 3,50122,Firenze,Italia,1,FOUND,"Piazza Piave 3, Santa Croce, 50122 Florence, Italy",https://www.booking.com/hotel/it/home.html
+42,Hotel Rome Pisana,Via della Pisana 374,00163,Roma,Italia,1,NOT FOUND,,
+43,Radisson Blu Es. - Piscina Panoramica,Via Filippo Turati 171,00185,Roma,Italia,1,PROBABLY FOUND,,

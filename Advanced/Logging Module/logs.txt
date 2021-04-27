@@ -1,0 +1,5 @@
+07 - 07 - 2020 19:15:48 INFO     [Mark01_logger.py : 11]  This is info message
+07 - 07 - 2020 19:15:48 WARNING  [Mark01_logger.py : 12]  This is warning message
+07 - 07 - 2020 19:15:48 DEBUG    [Mark01_logger.py : 13]  This is debug msg
+07 - 07 - 2020 19:15:48 CRITICAL [Mark01_logger.py : 14]  This is critical error msg
+07 - 07 - 2020 19:15:48 ERROR    [Mark01_logger.py : 15]  This is error msg
